@@ -1,2 +1,6 @@
 ## Ejemplo Card
-![La Tarjeta](z_recurso/Captura.png)
+![La tarjeta](pelo.jpg).
+
+## Ejemplo Un Dialogo de Alerta
+![La tarjeta](dialogo.jpg)
+![La tarjeta](dialogor.jpg)
